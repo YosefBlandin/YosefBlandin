@@ -10,6 +10,7 @@ I've experience working with these technologies:
 
 
 I've experience developing with Atomic Design Methodology:
+
 ![enter image description here](https://user-images.githubusercontent.com/4838076/33235048-d083dca6-d217-11e7-9aea-9a5ef5ae6fe7.png)
 
 Have a nice day! 👋
