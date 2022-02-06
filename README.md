@@ -1,6 +1,6 @@
 # Hello, here Yosef Blandin!
 
-Hi! I'm a Frontend Developer ready to help you in the development of an astonishing user experience, and to work together with a team, I'm a very optimistic person, always finding the most easy and correct way in order to  increase my speed in the development process.
+Hi! I'm a Front-end Engineer ready to help you in the development process. I like to work together with a team, I'm a very optimistic person, always finding the most easy and correct way, in order to  increase my speed in the development process.
 
 I'm interested to work and to continue improving my skills with the technologies in the professional area, working with teammates helping them, and therefore, be able in the future to lead a team in order to succeed with the project or mission.
 
