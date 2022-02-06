@@ -2,7 +2,7 @@
 
 Hi! I'm a Frontend Developer ready to help you in the development of an astonishing user experience, and to work together with a team, I'm a very optimistic person, always finding the most easy and correct way in order to  increase my speed in the development process.
 
-I'm interested to work and to continue improving my skills with the technologies in the professional area.
+I'm interested to work and to continue improving my skills with the technologies in the professional area, working with teammates helping them, and therefore, be able in the future to lead a team in order to succeed with the project or mission.
 
 I've experience working with these technologies:
 
@@ -13,5 +13,12 @@ I've experience developing with the Atomic Design Methodology:
 
 ![enter image description here](https://user-images.githubusercontent.com/4838076/33235048-d083dca6-d217-11e7-9aea-9a5ef5ae6fe7.png)
 
-Have a nice day! 👋
+Best regards,
+
+Yosef Blandin
+
+Contact: 
+email: yosefleanb@gmail.com
+
+twitter: @yosef_rios
 ```
