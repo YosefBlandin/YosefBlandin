@@ -17,7 +17,8 @@ Best regards,
 
 Yosef Blandin
 
-Contact: 
+Contact:
+
 email: yosefleanb@gmail.com
 
 twitter: @yosef_rios
