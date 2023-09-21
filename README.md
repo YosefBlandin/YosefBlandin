@@ -10,7 +10,3 @@ I've built web applications using the following technologies:
 - React
 - Redux
 - Next
-
-Despite the fact that I'm on the Front-End Engineering side, I'm learning about Nest JS in order to be able to build an entire web platform, I know the basics of Back-End Engineering but I'm broading my knowledge to come up with better solutions by understanding all the spectrum.
-
-If you would like to know more, send me an email and we can chat.
