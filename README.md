@@ -1,24 +1,12 @@
 # Yosef Enmanuel Blandin Rios
 
-## 💎 Professional Summary:
+I’m a Frontend Engineer with 4+ years of experience crafting high-performance UIs in multiple industries. My work focuses on building robust platforms, real-time dashboards, and data-driven charts using React, Next.js, and TypeScript.
 
-Have exposure to building professional websites and front-end applications. Experienced with a demonstrated history of working in the information technology and services industries. Skilled in Front-end Technologies such as Angular, React.js, Redux, EcmaScript, TypeScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, Jest and React Native (Expo) for mobile applications. Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech and new ways of solving problems.
+I specialize in translating complex financial data into clean, intuitive interfaces—whether it's regulatory dashboards, trading insights, or internal analytics tools. I’ve worked with tools like Recharts, D3.js, and Chart.js, and I follow best practices in modular design, performance optimization, and scalable architecture.
 
-## ♦️ Tech Stacks: 
+If you're building a fintech platform or need a fast, interactive, and reliable frontend for your data-rich product—let’s connect.
 
-Frontend development and Web development, Angular, Reactjs, React Native , TypeScript, Javascript, Redux.js, Git, Jest, Unit testing, HTML, CSS, GitHub, Webpack, REST APIs, Babel, Bootstrap, Tailwind CSS, Responsive web designing.
-
-## 🛠️ Skills:
-
-- Proficient in JavaScript and its object model- In-depth understanding of Angular and its principles- Experienced in Redux workflows and custom hooks- Familiar with ECMAScript specifications
-
-- Knowledge of RESTful APIs- Skilled in TypeScript and Redux middleware (Saga & Thunk) 
-
-- Familiar with front-end development tools (Babel, Webpack, NPM, yarn)- Ability to translate business requirements into technical solutions- Proficient in version control tools (Git, Bitbucket, JIRA)
-
-- Experience having conversations with English (B2 Level) and Spanish (Native Level) clients.
-
-## 🌐 Connect with me:
 - Github: https://github.com/YosefBlandin
 - Medium: https://medium.com/@yosefblandin
 - LinkedIn: https://www.linkedin.com/in/yosefblandin/
+- Professional Web: https://professional-web-seven.vercel.app/
