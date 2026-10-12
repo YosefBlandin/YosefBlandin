@@ -1,12 +1,16 @@
 # Yosef Enmanuel Blandin Rios
 
-I’m a Frontend Engineer with 4+ years of experience crafting high-performance UIs in multiple industries. My work focuses on building robust platforms, real-time dashboards, and data-driven charts using React, Next.js, and TypeScript.
+I've spent the last 5+ years building React and React Native apps, and lately most of them handle money. At AIDONIC I build the app merchants use to hand out NGO cash and voucher aid, in 14 languages, including Arabic.
 
-I specialize in translating complex financial data into clean, intuitive interfaces—whether it's regulatory dashboards, trading insights, or internal analytics tools. I’ve worked with tools like Recharts, D3.js, and Chart.js, and I follow best practices in modular design, performance optimization, and scalable architecture.
+For Bangente, a Venezuelan bank, I've worked on their mobile banking app since 2023, from transfers and bill payments to tap-to-pay over NFC.
 
-If you're building a fintech platform or need a fast, interactive, and reliable frontend for your data-rich product—let’s connect.
+When a feature needs backend work, I do that too. I always take challenges as learning experiences.
+
+I use Claude Code and Cursor every day, to learn unfamiliar areas quickly and to check best practices before I commit to an approach. I also put work into making them reliable on real codebases. I write project skills, docs and scripts so the agent follows the team's conventions instead of guessing, like a skill that handles our release version bumps the same way every time.
+
+Outside work I contribute to SWC, the Rust compiler behind Next.js.
 
 - Github: https://github.com/YosefBlandin
 - Medium: https://medium.com/@yosefblandin
 - LinkedIn: https://www.linkedin.com/in/yosefblandin/
-- Professional Web: https://professional-web-seven.vercel.app/
+- Professional Web: https://yosefblandin.com/
